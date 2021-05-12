@@ -1,8 +1,8 @@
-# webdesigningproject
+# JAGAN WEB DESIGNING
 This an web designing project
-# it is used for heading 1
-## it is used for heading 2 dont forget tongive space
-### it is uesd for heading 3 dont forget tongive space
+# WEB DESIGN IS VERY VALUABLE IN OUR LIFE
+## WEB DESIGN IS VERY USEFUL FOR DIGITAL  WORLD
+### WEB DESIGN WILL INCREASE YOUR STRENGTH ON WORKING WITH TECHNOLOGY
 *font style in italic* (dont give space)
 **is used for bold style** (dont give space)
 ***font style for both static and bold***
