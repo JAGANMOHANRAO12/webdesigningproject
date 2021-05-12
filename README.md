@@ -21,3 +21,12 @@ this is an emphasis
        2. INTEGERS
        3. natural numbers
     ![GUNS](https://undark.org/wp-content/uploads/2020/04/weapons-3417508.jpg)
+    
+    [Google](http://google.com/)
+    ~~~python
+    def fun():
+      printf("hai")
+    ~~~
+    Table 1 | Table 2
+    --------|---------
+    Table body 1|Table body 2
